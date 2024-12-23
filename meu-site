@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Final</title>
+</head>
+<body>
+
+    <header>
+        <h1>Bem-vindo ao Meu Site</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Lista de Filmes Favoritos</h2>
+            <ul>
+                <li>O Poderoso Chefão</li>
+                <li>Vingadores: Ultimato</li>
+                <li>Matrix</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Imagens do Projeto</h2>
+            <img src="imagem1.jpg" alt="Imagem de um pôr do sol" />
+            <img src="imagem2.jpg" alt="Foto de uma praia" />
+            <img src="imagem3.jpg" alt="Imagem de uma cidade à noite" />
+        </section>
+
+        <section>
+            <h2>Link Externo</h2>
+            <a href="https://www.exemplo.com" target="_blank" rel="noopener noreferrer">Visite nosso site parceiro</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>Feito por [Seu Nome]</p>
+    </footer>
+
+</body>
+</html>
